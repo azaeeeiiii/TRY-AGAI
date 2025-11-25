@@ -1,11 +1,13 @@
+<h1 align="center">O2gether</h1>
+
+<h3 align="center">Your console-based interactive AI eneme.</h3>
+
 <p align="center">
-<strong style="font-size: 32px;"> O2gether </strong><br>
-An interactive console-based AI  eneme. <br>
-<strong>CS 2102</strong><br>
-Aninon, Shanea May B.<br>
-Banaag, Ace Angela P.<br>
-Bituin, Jan Lawrence L.<br>
-Cura, Dane Mercy J.
+  <strong>CS 2102</strong><br/>
+  Aninon, Shanea May B.<br/>
+  Banaag, Ace Angela P.<br/>
+  Bituin, Jan Lawrence L.<br/>
+  Cura, Dane Mercy J.
 </p>
 
 ## Overview
@@ -70,12 +72,12 @@ text here
 ## Snippet
 
 ## Contributors
-| Name | GitHub | Role |
-|------|--------|------|
-| **Shanea May B. Aninon** | [shaneamay](https://github.com/) | Role |
-| **Ace Angela P. Banaag** | [azaeeeiiii](https://github.com/) | Role |
-| **Jan Lawrence L. Bituin** | [jarenn15](https://github.com/) | Role |
-| **Dane Mercy J. Cura** | [deynblip](https://github.com/) | Role |
+|      | Name | GitHub | Role |
+|------|------|--------|------|
+|      | **Shanea May B. Aninon** | [shaneamay](https://github.com/) | Role |
+|  <img src="./static/howl icon.jpg" width="80"> <br>   | **Ace Angela P. Banaag** | [azaeeeiiii](https://github.com/) | Role |
+|      | **Jan Lawrence L. Bituin** | [jarenn15](https://github.com/) | Role |
+|     | **Dane Mercy J. Cura** | [deynblip](https://github.com/) | Role |
 
 ## Acknowledgement
 We blahblahblah
